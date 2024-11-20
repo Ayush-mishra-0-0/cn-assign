@@ -1,0 +1,457 @@
+\documentclass{exam}
+\usepackage[fontsize=12pt]{scrextend}
+\usepackage{xpatch}
+\usepackage{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tcolorbox}
+% \documentclass{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{tcolorbox}
+\usepackage{xcolor}
+\usepackage{mdframed}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{fancyheaders}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{float}  % Ensure this package is included
+\usepackage{hyperref}
+\usepackage[colorlinks=true, urlcolor=red]{hyperref}
+% Define colors
+
+\definecolor{myblue}{rgb}{0.2, 0.2, 0.7}
+\definecolor{myred}{rgb}{0.7, 0.2, 0.2}
+\definecolor{mygreen}{rgb}{0.2, 0.7, 0.2}
+
+\definecolor{lightblue}{rgb}{0.678, 0.847, 0.902}
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.545}
+\definecolor{lightyellow}{rgb}{1.0, 1.0, 0.88}
+
+% Custom colors
+\definecolor{conceptblue}{RGB}{41,128,185}
+\definecolor{examplegreen}{RGB}{46,204,113}
+\definecolor{notered}{RGB}{231,76,60}
+\newmdenv[
+  linecolor=conceptblue,
+  backgroundcolor=blue!5,
+  linewidth=2pt,
+  topline=false,
+  rightline=false,
+  leftline=true,
+  bottomline=false,
+  innertopmargin=5pt
+]{concept}
+
+\newmdenv[
+  linecolor=examplegreen,
+  backgroundcolor=green!5,
+  linewidth=2pt,
+  topline=false,
+  rightline=false,
+  leftline=true,
+  bottomline=false,
+  innertopmargin=5pt
+]{example}
+
+\newmdenv[
+  linecolor=notered,
+  backgroundcolor=red!5,
+  linewidth=2pt,
+  topline=false,
+  rightline=false,
+  leftline=true,
+  bottomline=false,
+  innertopmargin=5pt
+]{important}
+
+\pointsdroppedatright
+\marksnotpoints
+\makeatletter
+\def\mydroppoints{%
+  {\unskip\nobreak\hfil\penalty50
+    \hskip2em\hbox{}\nobreak\hfil
+    (\@points~mark\expandafter\ifx\@points1\else s\fi)
+    \parfillskip=0pt \finalhyphendemerits=0 \par}
+}
+\makeatother
+
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{
+    language=Python,
+    basicstyle=\ttfamily\footnotesize,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green},
+    stringstyle=\color{red},
+    showstringspaces=false,
+    frame=single,
+    breaklines=true,
+    postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    stepnumber=1,
+    numbersep=8pt,
+    tabsize=4
+}
+\usepackage{geometry}
+\geometry{
+  a4paper,% redundant if already in \documentclass
+  left=25mm,
+  right=25mm,
+  top=25mm,
+  bottom=25mm,
+  heightrounded,% better use it
+}
+
+\begin{document}
+
+\begin{center}
+\textbf{CS550/DSL501: Machine Learning (2023--24--M)} \\
+\textbf{Assignment-II}
+\end{center}
+
+\vspace{0.2in}
+
+\noindent
+\textsc{\textbf{Full name: Ayush Kumar Mishra}}  \hspace{1in} \textsc{\textbf{ID: 12240340}} 
+
+\vspace{0.2in}
+
+\section*{\color{darkblue}Question 1}
+Consider a sequence of daily temperatures recorded over a month, where the temperatures exhibit some seasonality and trends. You decide to use an LSTM model to predict the temperature for the next day based on the previous seven days’ temperatures.
+
+\subsection*{\color{blue}Part A}
+\noindent Mathematically, describe how the input to your LSTM model will be structured. If the temperatures for the last seven days are represented as:
+\[
+\{ T_t, T_{t-1}, T_{t-2}, T_{t-3}, T_{t-4}, T_{t-5}, T_{t-6} \}
+\]
+each input sequence to the model is a vector containing these temperature values. 
+
+\subsection*{\color{blue}Part B}
+\noindent Given that LSTMs have memory cells and gates (input, forget, and output gates), explain how these components could theoretically help your model learn long-term dependencies in this temperature data. Describe the mathematical operations performed in these gates, and discuss why they are essential for this type of sequential data.
+
+The operations for each gate are as follows:
+\begin{itemize}
+    \item \textbf{Forget Gate:}
+    \[
+    f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f)
+    \]
+    This gate determines which information to discard from the cell state, which helps in maintaining relevant information over time.
+
+    \item \textbf{Input Gate:}
+    \[
+    i_t = \sigma(W_i \cdot [h_{t-1}, x_t] + b_i)
+    \]
+    \[
+    \tilde{c}_t = \tanh(W_c \cdot [h_{t-1}, x_t] + b_c)
+    \]
+    The input gate decides what new information to store in the cell state, allowing the model to learn new temperature patterns.
+
+    \item \textbf{Output Gate:}
+    \[
+    o_t = \sigma(W_o \cdot [h_{t-1}, x_t] + b_o)
+    \]
+    \[
+    h_t = o_t * \tanh(c_t)
+    \]
+    This gate controls what information to output from the cell state, which helps in generating predictions based on relevant features.
+\end{itemize}
+
+\subsection*{\color{blue}Part C}
+\noindent Suppose you notice that the model performs well during stable weather conditions but struggles during sudden weather changes. What modifications could you make to the LSTM architecture or training process to potentially improve its performance in such scenarios?
+
+Potential improvements include:
+\begin{itemize}
+    \item \textbf{Attention Mechanism:} Integrating attention could allow the model to focus on more relevant parts of the sequence, particularly during sudden changes.
+    \item \textbf{Bidirectional LSTM:} This approach processes the sequence in both forward and backward directions, which could help in better understanding rapid fluctuations.
+    \item \textbf{Custom Loss Function:} Implementing a loss function that places more weight on prediction errors during sudden weather changes might improve model accuracy in these cases.
+\end{itemize}
+
+% question 2
+\section*{Question 2}
+
+\subsection*{Part a) Forward and Backward Pass Calculations}
+
+Given that the actual output of $y(O_6)$ is 1 and learning rate is 0.9, we perform another forward pass.
+
+\subsubsection*{Forward Pass}
+The forward pass computes the output values using:
+\begin{equation}
+a_j = \sum_j (w_{i,j} \cdot x_i)
+\end{equation}
+
+Where $a_j$ is the net input to neuron $j$, $w_{i,j}$ is the weight connecting input $i$ to neuron $j$, and $x_i$ is the $i$-th input value.
+
+\begin{equation}
+y_j = F(a_j) = \frac{1}{1 + e^{-a_j}}
+\end{equation}
+
+Computing outputs for $y_4$, $y_5$, and $y_6$:
+
+\begin{align*}
+a_4 &= (w_{14} \cdot x_1) + (w_{24} \cdot x_2) + (w_{34} \cdot x_3) + \theta_4 \\
+&= (0.2 \cdot 1) + (0.4 \cdot 0) + (-0.5 \cdot 1) + (-0.4) = -0.7 \\
+O(H_4) = y_4 &= f(a_4) = \frac{1}{1 + e^{0.7}} = 0.332
+\end{align*}
+
+\begin{align*}
+a_5 &= (w_{15} \cdot x_1) + (w_{25} \cdot x_2) + (w_{35} \cdot x_3) + \theta_5 \\
+&= (-0.3 \cdot 1) + (0.1 \cdot 0) + (0.2 \cdot 1) + (0.2) = 0.1 \\
+O(H_5) = y_5 &= f(a_5) = \frac{1}{1 + e^{-0.1}} = 0.525
+\end{align*}
+
+\begin{align*}
+a_6 &= (w_{46} \cdot H_4) + (w_{56} \cdot H_5) + \theta_6 \\
+&= (-0.3 \cdot 0.332) + (-0.2 \cdot 0.525) + 0.1 = -0.105 \\
+O(O_6) = y_6 &= f(a_6) = \frac{1}{1 + e^{0.105}} = 0.474
+\end{align*}
+
+\subsubsection*{Backward Pass}
+For output units:
+\begin{equation}
+\delta_j = o_j(1 - o_j)(t_j - o_j)
+\end{equation}
+
+For hidden units:
+\begin{equation}
+\delta_j = o_j(1 - o_j)\sum_k \delta_k w_{kj}
+\end{equation}
+
+Computing error gradients:
+\begin{align*}
+\delta_6 &= y_6(1 - y_6)(y_{target} - y_6) \\
+&= 0.474 \cdot (1 - 0.474) \cdot (1 - 0.474) = 0.1311 \\
+\\
+\delta_5 &= y_5(1 - y_5)w_{56} \cdot \delta_6 \\
+&= 0.525 \cdot (1 - 0.525) \cdot (-0.2 \cdot 0.1311) = -0.0065 \\
+\\
+\delta_4 &= y_4(1 - y_4)w_{46} \cdot \delta_6 \\
+&= 0.332 \cdot (1 - 0.332) \cdot (-0.3 \cdot 0.1311) = -0.0087
+\end{align*}
+
+\subsubsection*{Weight Updates}
+\begin{equation}
+\Delta w_{ji} = \eta\delta_j o_i
+\end{equation}
+
+Computing new weights:
+\begin{align*}
+\Delta w_{46} &= \eta\delta_6 y_4 = 0.9 \cdot 0.1311 \cdot 0.332 = 0.03917 \\
+w_{46}(new) &= \Delta w_{46} + w_{46}(old) = 0.03917 + (-0.3) = -0.261 \\
+\\
+\Delta w_{14} &= \eta\delta_4 x_1 = 0.9 \cdot -0.0087 \cdot 1 = -0.0078 \\
+w_{14}(new) &= \Delta w_{14} + w_{14}(old) = -0.0078 + 0.2 = 0.192
+\end{align*}
+
+\subsubsection*{New Forward Pass}
+Computing outputs with updated weights:
+\begin{align*}
+a_4 &= (0.192 \cdot 1) + (0.4 \cdot 0) + (-0.508 \cdot 1) + (-0.408) = -0.724 \\
+O(H_4) = y_4 &= f(a_4) = \frac{1}{1 + e^{0.724}} = 0.327 \\
+\\
+a_5 &= (-0.306 \cdot 1) + (0.1 \cdot 0) + (0.194 \cdot 1) + (0.194) = 0.082 \\
+O(H_5) = y_5 &= f(a_5) = \frac{1}{1 + e^{-0.082}} = 0.520 \\
+\\
+a_6 &= (-0.261 \cdot 0.327) + (-0.138 \cdot 0.520) + 0.218 = 0.061 \\
+O(O_6) = y_6 &= f(a_6) = \frac{1}{1 + e^{-0.061}} = 0.515
+\end{align*}
+
+\subsection*{Part b Activation Functions}
+
+Given the net input calculation:
+\begin{align*}
+y_{in} &= b + \sum_{i=1}^n x_i w_i \\
+&= b + x_1w_1 + x_2w_2 + x_3w_3 \\
+&= 0.35 + 0.8 \times 0.1 + 0.6 \times 0.3 + 0.4 \times (-0.2) \\
+&= 0.35 + 0.08 + 0.18 - 0.08 = 0.53
+\end{align*}
+
+\subsubsection*{Binary Sigmoid Activation Function}
+\begin{equation}
+y = f(y_{in}) = \frac{1}{1 + e^{-y_{in}}} = \frac{1}{1 + e^{-0.53}} = 0.625
+\end{equation}
+
+\subsubsection*{Bipolar Sigmoid Activation Function}
+\begin{equation}
+y = f(y_{in}) = \frac{2}{1 + e^{-y_{in}}} - 1 = \frac{2}{1 + e^{-0.53}} - 1 = 0.259
+\end{equation}
+
+\section*{\textcolor{conceptblue}{Question 3: Ensemble Learning with AdaBoost}}
+
+\begin{concept}
+\textbf{Core Concept: AdaBoost (Adaptive Boosting)}\\
+AdaBoost is an ensemble learning algorithm that combines multiple weak classifiers to create a strong classifier. Each weak classifier is assigned a weight based on its performance, and misclassified examples receive higher weights in subsequent iterations.
+\end{concept}
+
+\subsection*{Problem Setup}
+
+\begin{important}
+\textbf{Given Parameters:}
+\begin{itemize}[leftmargin=*]
+    \item Three trained classifiers: $h_1$, $h_2$, and $h_3$
+    \item Weight coefficients:
+        \begin{align*}
+            \alpha_1 &= 0.2 \quad \text{(First classifier)}\\
+            \alpha_2 &= -0.3 \quad \text{(Second classifier)}\\
+            \alpha_3 &= -0.2 \quad \text{(Third classifier)}
+        \end{align*}
+    \item Predictions for test example $x$:
+        \begin{align*}
+            h_1(x) &= +1 \quad \text{(Positive class)}\\
+            h_2(x) &= +1 \quad \text{(Positive class)}\\
+            h_3(x) &= -1 \quad \text{(Negative class)}
+        \end{align*}
+\end{itemize}
+\end{important}
+
+\subsection*{Solution Process}
+
+\begin{example}
+\textbf{Step 1: Understanding the Final Classifier Formula}
+\begin{equation*}
+H(x) = \text{sign}\left(\sum_{i=1}^{3} \alpha_i h_i(x)\right)
+\end{equation*}
+This formula represents the weighted majority vote of all weak classifiers.
+\end{example}
+
+\begin{example}
+\textbf{Step 2: Calculating the Weighted Sum}
+\begin{align*}
+\sum_{i=1}^{3} \alpha_i h_i(x) &= \alpha_1h_1(x) + \alpha_2h_2(x) + \alpha_3h_3(x)\\
+&= (0.2 \cdot (+1)) + (-0.3 \cdot (+1)) + (-0.2 \cdot (-1))\\
+&= 0.2 - 0.3 + 0.2\\
+&= 0.1
+\end{align*}
+\end{example}
+
+\begin{example}
+\textbf{Step 3: Applying the Sign Function}
+\begin{equation*}
+H(x) = \text{sign}(0.1) = +1
+\end{equation*}
+Since $0.1 > 0$, the sign function returns $+1$
+\end{example}
+
+\begin{important}
+\textbf{Key Insights:}
+\begin{itemize}[leftmargin=*]
+    \item The positive result (0.1) indicates a slight lean towards the positive class
+    \item Despite two classifiers having negative weights, the final prediction is positive
+    \item The combination of weights and predictions shows the adaptive nature of AdaBoost
+\end{itemize}
+\end{important}
+
+\section*{\textcolor{conceptblue}{Question 4: Advanced Attention Mechanisms}}
+
+\begin{concept}
+\textbf{Core Concept: Attention in Neural Networks}\\
+Attention mechanisms allow neural networks to selectively focus on different parts of the input, similar to human visual attention. They are crucial for tasks like summarization where context-dependent understanding is essential.
+\end{concept}
+
+\subsection*{Part (a): Attention Score Calculation}
+
+\begin{important}
+\textbf{Mathematical Definition:}
+\begin{equation}
+e_{ij} = v^T \tanh(W_1h_i + W_2s_j)
+\end{equation}
+
+\textbf{Component Breakdown:}
+\begin{itemize}[leftmargin=*]
+    \item $h_i$: $i$-th encoder hidden state
+    \item $s_j$: $j$-th decoder state
+    \item $W_1$, $W_2$: Trainable weight matrices
+    \item $v$: Trainable vector
+    \item $\tanh$: Non-linear activation function
+\end{itemize}
+\end{important}
+
+\begin{example}
+\textbf{Process Flow:}
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Transform States:} Apply $W_1$ to $h_i$ and $W_2$ to $s_j$
+    \item \textbf{Add States:} Combine transformed states
+    \item \textbf{Apply Non-linearity:} Use $\tanh$ activation
+    \item \textbf{Project to Scalar:} Multiply with $v^T$
+\end{enumerate}
+\end{example}
+
+\subsection*{Part (b): Attention Weight Computation}
+
+\begin{important}
+\textbf{Softmax Normalization:}
+\begin{equation}
+\alpha_{ij} = \frac{\exp(e_{ij})}{\sum_{k=1}^n \exp(e_{ik})}
+\end{equation}
+
+\textbf{Properties:}
+\begin{itemize}[leftmargin=*]
+    \item Normalized weights: $\sum_{i=1}^n \alpha_{ij} = 1$
+    \item Range: $0 \leq \alpha_{ij} \leq 1$
+    \item Interpretable as probabilities
+\end{itemize}
+\end{important}
+
+\subsection*{Part (c): Multi-Head Attention}
+
+\begin{concept}
+\textbf{Multi-Head Architecture:}
+\begin{equation}
+\text{head}_i = \text{Attention}(QW^Q_i, KW^K_i, VW^V_i)
+\end{equation}
+
+\textbf{Final Output:}
+\begin{equation}
+\text{MultiHead}(Q, K, V) = \text{Concat}(\text{head}_1, \ldots, \text{head}_h)W^O
+\end{equation}
+\end{concept}
+
+\begin{example}
+\textbf{Advantages of Multi-Head Attention:}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Parallel Processing:}
+        \begin{itemize}
+            \item Multiple attention patterns computed simultaneously
+            \item Each head can specialize in different aspects
+            \item Efficient computation through parallelization
+        \end{itemize}
+    \item \textbf{Enhanced Feature Capture:}
+        \begin{itemize}
+            \item Different heads focus on different feature subspaces
+            \item Combines local and global information
+            \item Better handling of complex dependencies
+        \end{itemize}
+    \item \textbf{Improved Model Capacity:}
+        \begin{itemize}
+            \item Increased representational power
+            \item Better handling of diverse patterns
+            \item More robust feature extraction
+        \end{itemize}
+\end{itemize}
+\end{example}
+
+\begin{important}
+\textbf{Key Implementation Considerations:}
+\begin{itemize}[leftmargin=*]
+    \item Choose appropriate number of attention heads
+    \item Balance between computational cost and model capacity
+    \item Ensure proper initialization of weight matrices
+    \item Consider using residual connections
+\end{itemize}
+\end{important}
+
+\section*{Conclusion}
+This concludes the assignment. Thank you for your attention.
+
+\begin{flushright}
+\textit{End of Assignment}
+\end{flushright}
+
+
+
+\end{document}

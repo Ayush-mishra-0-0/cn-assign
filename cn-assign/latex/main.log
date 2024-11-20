@@ -1,0 +1,3957 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  18 NOV 2024 23:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main
+(c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+(c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen142
+)) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count268
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count269
+\leftroot@=\count270
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count271
+\DOTSCASE@=\count272
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count273
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count274
+\dotsspace@=\muskip17
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks20
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks21
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks29
+) (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (c:/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+ (c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box54
+\extrarowheight=\dimen152
+\NC@list=\toks30
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box55
+)
+\everycr=\toks31
+\minrowclearance=\skip59
+\rownum=\count280
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks32
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count281
+) (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+) (c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count285
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count286
+ (c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen156
+ (c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count287
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count288
+\c@Item=\count289
+\c@Hfootnote=\count290
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+ (c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
+ (c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip60
+) (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks33
+)
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:8: LaTeX Error: Two \documentclass or \documentstyle commands.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \documentclass{
+                   article}
+The document may only declare one class.
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2023/07/07 v3.41 KOMA-Script package (extend other classes with features of KOMA-Script classes)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
+))
+
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
+
+)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 11.
+
+(c:/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count296
+\mult@box=\box56
+\multicol@leftmargin=\dimen167
+\c@unbalance=\count297
+\c@collectmore=\count298
+\doublecol@number=\count299
+\multicoltolerance=\count300
+\multicolpretolerance=\count301
+\full@width=\dimen168
+\page@free=\dimen169
+\premulticols=\dimen170
+\postmulticols=\dimen171
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box57
+\last@line=\box58
+\mc@boxedresult=\box59
+\maxbalancingoverflow=\dimen172
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@firstbox=\box62
+\mult@gfirstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\c@minrows=\count302
+\c@columnbadness=\count303
+\c@finalcolumnbadness=\count304
+\last@try=\dimen173
+\multicolovershoot=\dimen174
+\multicolundershoot=\dimen175
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count305
+) (c:/texlive/2024/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (c:/texlive/2024/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (c:/texlive/2024/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks34
+\SOUL@lasttoken=\toks35
+\SOUL@syllable=\toks36
+\SOUL@cmds=\toks37
+\SOUL@buffer=\toks38
+\SOUL@token=\toks39
+\SOUL@syllgoal=\dimen176
+\SOUL@syllwidth=\dimen177
+\SOUL@charkern=\dimen178
+\SOUL@hyphkern=\dimen179
+\SOUL@dimen=\dimen180
+\SOUL@dimeni=\dimen181
+\SOUL@minus=\count306
+\SOUL@comma=\count307
+\SOUL@apo=\count308
+\SOUL@grave=\count309
+\SOUL@spaceskip=\skip63
+\SOUL@ttwidth=\dimen182
+\SOUL@uldp=\dimen183
+\SOUL@ulht=\dimen184
+) (c:/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks40
+\pgfutil@tempdima=\dimen185
+\pgfutil@tempdimb=\dimen186
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box102
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks41
+\pgfkeys@temptoks=\toks42
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks43
+))
+\pgf@x=\dimen187
+\pgf@y=\dimen188
+\pgf@xa=\dimen189
+\pgf@ya=\dimen190
+\pgf@xb=\dimen191
+\pgf@yb=\dimen192
+\pgf@xc=\dimen193
+\pgf@yc=\dimen194
+\pgf@xd=\dimen195
+\pgf@yd=\dimen196
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+\pgf@sys@id@count=\count314
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count315
+\pgfsyssoftpath@bigbuffer@items=\count316
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen197
+\pgfmath@count=\count317
+\pgfmath@box=\box103
+\pgfmath@toks=\toks47
+\pgfmath@stack@operand=\toks48
+\pgfmath@stack@operation=\toks49
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count318
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen198
+\pgf@picmaxx=\dimen199
+\pgf@picminy=\dimen256
+\pgf@picmaxy=\dimen257
+\pgf@pathminx=\dimen258
+\pgf@pathmaxx=\dimen259
+\pgf@pathminy=\dimen260
+\pgf@pathmaxy=\dimen261
+\pgf@xx=\dimen262
+\pgf@xy=\dimen263
+\pgf@yx=\dimen264
+\pgf@yy=\dimen265
+\pgf@zx=\dimen266
+\pgf@zy=\dimen267
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen268
+\pgf@path@lasty=\dimen269
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen270
+\pgf@shorten@start@additional=\dimen271
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box104
+\pgf@hbox=\box105
+\pgf@layerbox@main=\box106
+\pgf@picture@serial@count=\count319
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen272
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen273
+\pgf@pt@y=\dimen274
+\pgf@pt@temp=\dimen275
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen276
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen277
+\pgf@sys@shading@range@num=\count320
+\pgf@shadingcount=\count321
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box107
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box108
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen278
+\pgf@nodesepend=\dimen279
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen280
+\pgffor@skip=\dimen281
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count322
+\pgfplotmarksize=\dimen282
+)
+\tikz@lastx=\dimen283
+\tikz@lasty=\dimen284
+\tikz@lastxsaved=\dimen285
+\tikz@lastysaved=\dimen286
+\tikz@lastmovetox=\dimen287
+\tikz@lastmovetoy=\dimen288
+\tikzleveldistance=\dimen289
+\tikzsiblingdistance=\dimen290
+\tikz@figbox=\box109
+\tikz@figbox@bg=\box110
+\tikz@tempbox=\box111
+\tikz@tempbox@bg=\box112
+\tikztreelevel=\count323
+\tikznumberofchildren=\count324
+\tikznumberofcurrentchild=\count325
+\tikz@fig@count=\count326
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count327
+\pgfmatrixcurrentcolumn=\count328
+\pgf@matrix@numberofcolumns=\count329
+)
+\tikz@expandcount=\count330
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip64
+\enit@outerparindent=\dimen291
+\enit@toks=\toks52
+\enit@inbox=\box113
+\enit@count@id=\count331
+\enitdp@description=\count332
+) (c:/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen292
+\lightrulewidth=\dimen293
+\cmidrulewidth=\dimen294
+\belowrulesep=\dimen295
+\belowbottomsep=\dimen296
+\aboverulesep=\dimen297
+\abovetopsep=\dimen298
+\cmidrulesep=\dimen299
+\cmidrulekern=\dimen300
+\defaultaddspace=\dimen301
+\@cmidla=\count333
+\@cmidlb=\count334
+\@aboverulesep=\dimen302
+\@belowrulesep=\dimen303
+\@thisruleclass=\count335
+\@lastruleclass=\count336
+\@thisrulewidth=\dimen304
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen305
+\TX@old@table=\dimen306
+\TX@old@col=\dimen307
+\TX@target=\dimen308
+\TX@delta=\dimen309
+\TX@cols=\count337
+\TX@ftn=\toks53
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2024/07/10 version 6.3.0 text color boxes
+ (c:/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks54
+\verbatim@line=\toks55
+\verbatim@in@stream=\read3
+) (c:/texlive/2024/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (c:/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box114
+\tcb@upperbox=\box115
+\tcb@lowerbox=\box116
+\tcb@phantombox=\box117
+\c@tcbbreakpart=\count338
+\c@tcblayer=\count339
+\c@tcolorbox@number=\count340
+\l__tcobox_tmpa_box=\box118
+\l__tcobox_tmpa_dim=\dimen310
+\tcb@temp=\box119
+\tcb@temp=\box120
+\tcb@temp=\box121
+\tcb@temp=\box122
+ (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.3.0'
+\c@tcbrastercolumn=\count341
+\c@tcbrasterrow=\count342
+\c@tcbrasternum=\count343
+\c@tcbraster=\count344
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.3.0'
+(c:/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (c:/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (c:/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box123
+)) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.3.0'
+)) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.3.0'
+(c:/texlive/2024/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box124
+\tcb@totalupperbox=\box125
+\tcb@totallowerbox=\box126
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.3.0'
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.3.0'
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.3.0'
+\tcbfitdim=\dimen311
+\tcb@lowerfitdim=\dimen312
+\tcb@upperfitdim=\dimen313
+\tcb@cur@hbadness=\count345
+)) (c:/texlive/2024/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-08-30 L3 programming layer (loader) 
+ (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count346
+\l__pdf_internal_box=\box127
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+) (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+ (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (c:/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count347
+Package zref Info: New property: abspage on input line 67.
+) (c:/texlive/2024/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip65
+\c@mdf@globalstyle@cnt=\count348
+\mdf@skipabove@length=\skip66
+\mdf@skipbelow@length=\skip67
+\mdf@leftmargin@length=\skip68
+\mdf@rightmargin@length=\skip69
+\mdf@innerleftmargin@length=\skip70
+\mdf@innerrightmargin@length=\skip71
+\mdf@innertopmargin@length=\skip72
+\mdf@innerbottommargin@length=\skip73
+\mdf@splittopskip@length=\skip74
+\mdf@splitbottomskip@length=\skip75
+\mdf@outermargin@length=\skip76
+\mdf@innermargin@length=\skip77
+\mdf@linewidth@length=\skip78
+\mdf@innerlinewidth@length=\skip79
+\mdf@middlelinewidth@length=\skip80
+\mdf@outerlinewidth@length=\skip81
+\mdf@roundcorner@length=\skip82
+\mdf@footenotedistance@length=\skip83
+\mdf@userdefinedwidth@length=\skip84
+\mdf@needspace@length=\skip85
+\mdf@frametitleaboveskip@length=\skip86
+\mdf@frametitlebelowskip@length=\skip87
+\mdf@frametitlerulewidth@length=\skip88
+\mdf@frametitleleftmargin@length=\skip89
+\mdf@frametitlerightmargin@length=\skip90
+\mdf@shadowsize@length=\skip91
+\mdf@extratopheight@length=\skip92
+\mdf@subtitleabovelinewidth@length=\skip93
+\mdf@subtitlebelowlinewidth@length=\skip94
+\mdf@subtitleaboveskip@length=\skip95
+\mdf@subtitlebelowskip@length=\skip96
+\mdf@subtitleinneraboveskip@length=\skip97
+\mdf@subtitleinnerbelowskip@length=\skip98
+\mdf@subsubtitleabovelinewidth@length=\skip99
+\mdf@subsubtitlebelowlinewidth@length=\skip100
+\mdf@subsubtitleaboveskip@length=\skip101
+\mdf@subsubtitlebelowskip@length=\skip102
+\mdf@subsubtitleinneraboveskip@length=\skip103
+\mdf@subsubtitleinnerbelowskip@length=\skip104
+ (c:/texlive/2024/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box128
+\mdf@footnotebox=\box129
+\mdf@splitbox@one=\box130
+\mdf@splitbox@two=\box131
+\mdf@splitbox@save=\box132
+\mdfsplitboxwidth=\skip105
+\mdfsplitboxtotalwidth=\skip106
+\mdfsplitboxheight=\skip107
+\mdfsplitboxdepth=\skip108
+\mdfsplitboxtotalheight=\skip109
+\mdfframetitleboxwidth=\skip110
+\mdfframetitleboxtotalwidth=\skip111
+\mdfframetitleboxheight=\skip112
+\mdfframetitleboxdepth=\skip113
+\mdfframetitleboxtotalheight=\skip114
+\mdffootnoteboxwidth=\skip115
+\mdffootnoteboxtotalwidth=\skip116
+\mdffootnoteboxheight=\skip117
+\mdffootnoteboxdepth=\skip118
+\mdffootnoteboxtotalheight=\skip119
+\mdftotallinewidth=\skip120
+\mdfboundingboxwidth=\skip121
+\mdfboundingboxtotalwidth=\skip122
+\mdfboundingboxheight=\skip123
+\mdfboundingboxdepth=\skip124
+\mdfboundingboxtotalheight=\skip125
+\mdf@freevspace@length=\skip126
+\mdf@horizontalwidthofbox@length=\skip127
+\mdf@verticalmarginwhole@length=\skip128
+\mdf@horizontalspaceofbox=\skip129
+\mdfsubtitleheight=\skip130
+\mdfsubsubtitleheight=\skip131
+\c@mdfcountframes=\count349
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count350
+\c@mdf@env@i=\count351
+\c@mdf@env@ii=\count352
+\c@mdf@zref@counter=\count353
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input line 58.
+
+(./structure.tex (c:/texlive/2024/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2024/07/07 v2.1c lastpage: 2.09 or 2e? (HMM)
+ (c:/texlive/2024/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2024/07/07 v2.1c Decide which 2e lastpage version to use (HMM)
+ (c:/texlive/2024/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2024-07-07 v2.1c Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count354
+) 
+))
+
+./structure.tex:10: LaTeX Error: Option clash for package tcolorbox.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 
+     
+The package tcolorbox has already been loaded with options:
+  [many]
+There has now been an attempt to load it with options
+  [most]
+Adding the global options:
+  many,most
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(c:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count355
+\lst@gtempboxa=\box133
+\lst@token=\toks56
+\lst@length=\count356
+\lst@currlwidth=\dimen314
+\lst@column=\count357
+\lst@pos=\count358
+\lst@lostspace=\dimen315
+\lst@width=\dimen316
+\lst@newlines=\count359
+\lst@lineno=\count360
+\lst@maxwidth=\dimen317
+ (c:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+) (c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count361
+\lst@skipnumbers=\count362
+\lst@framebox=\box134
+) (c:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+ (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 116.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (c:/texlive/2024/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX engines.
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (c:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks57
+\XKV@tempa@toks=\toks58
+)
+\XKV@depth=\count363
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+
+LaTeX Font Warning: Font shape `T1/lmr/l/n' undefined
+(Font)              using `T1/lmr/m/n' instead on input line 116.
+
+) (c:/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)) (c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip132
+\f@nch@O@elh=\skip133
+\f@nch@O@erh=\skip134
+\f@nch@O@olh=\skip135
+\f@nch@O@orh=\skip136
+\f@nch@O@elf=\skip137
+\f@nch@O@erf=\skip138
+\f@nch@O@olf=\skip139
+\f@nch@O@orf=\skip140
+) (c:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box135
+\beforetitleunit=\skip141
+\aftertitleunit=\skip142
+\ttl@plus=\dimen318
+\ttl@minus=\dimen319
+\ttl@toksa=\toks59
+\titlewidth=\dimen320
+\titlewidthlast=\dimen321
+\titlewidthfirst=\dimen322
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip143
+\LTright=\skip144
+\LTpre=\skip145
+\LTpost=\skip146
+\LTchunksize=\count364
+\LTcapwidth=\dimen323
+\LT@head=\box136
+\LT@firsthead=\box137
+\LT@foot=\box138
+\LT@lastfoot=\box139
+\LT@gbox=\box140
+\LT@cols=\count365
+\LT@rows=\count366
+\c@LT@tables=\count367
+\c@LT@chunks=\count368
+\LT@p@ftn=\toks60
+)
+
+./structure.tex:68: LaTeX Error: Two \documentclass or \documentstyle commands.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \documentclass{
+                    article}
+The document may only declare one class.
+
+) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input line 116.
+ (c:/texlive/2024/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
+File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 116.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 13.0pt on input line 116.
+) (c:/texlive/2024/texmf-dist/tex/latex/pgfplots/pgfplots.sty (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks61
+\t@pgfplots@tokb=\toks62
+\t@pgfplots@tokc=\toks63
+\pgfplots@tmpa=\dimen324
+\c@pgfplots@coordindex=\count369
+\c@pgfplots@scanlineindex=\count370
+ (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks64
+\t@pgf@tokb=\toks65
+\t@pgf@tokc=\toks66
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count371
+) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count372
+\t@pgfplotstable@a=\toks67
+) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count373
+ (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen325
+\pgfdecoratedremainingdistance=\dimen326
+\pgfdecoratedinputsegmentcompleteddistance=\dimen327
+\pgfdecoratedinputsegmentremainingdistance=\dimen328
+\pgf@decorate@distancetomove=\dimen329
+\pgf@decorate@repeatstate=\count374
+\pgfdecorationsegmentamplitude=\dimen330
+\pgfdecorationsegmentlength=\dimen331
+)
+\tikz@lib@dec@box=\box141
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count375
+\pgfplots@xmin@reg=\dimen332
+\pgfplots@xmax@reg=\dimen333
+\pgfplots@ymin@reg=\dimen334
+\pgfplots@ymax@reg=\dimen335
+\pgfplots@zmin@reg=\dimen336
+\pgfplots@zmax@reg=\dimen337
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count376
+\l__tblr_c_int=\count377
+\l__tblr_r_int=\count378
+\l__tblr_d_dim=\dimen338
+\l__tblr_h_dim=\dimen339
+\l__tblr_o_dim=\dimen340
+\l__tblr_p_dim=\dimen341
+\l__tblr_q_dim=\dimen342
+\l__tblr_r_dim=\dimen343
+\l__tblr_s_dim=\dimen344
+\l__tblr_t_dim=\dimen345
+\l__tblr_v_dim=\dimen346
+\l__tblr_w_dim=\dimen347
+\l__tblr_a_box=\box142
+\l__tblr_b_box=\box143
+\l__tblr_c_box=\box144
+\l__tblr_d_box=\box145
+\g__tblr_table_count_int=\count379
+\c@colnum=\count380
+\c@rowcount=\count381
+\c@colcount=\count382
+\abovesep=\dimen348
+\belowsep=\dimen349
+\leftsep=\dimen350
+\rightsep=\dimen351
+\g_tblr_level_int=\count383
+\g__tblr_data_row_key_count_int=\count384
+\g__tblr_data_column_key_count_int=\count385
+\g__tblr_data_cell_key_count_int=\count386
+\g__tblr_array_int=\count387
+\l__tblr_key_count_int=\count388
+\l__tblr_key_quotient_int=\count389
+\l__tblr_key_quotient_two_int=\count390
+\l__tblr_key_remainder_int=\count391
+\g__tblr_data_str_value_count_int=\count392
+\rulewidth=\dimen352
+\l__tblr_strut_dp_dim=\dimen353
+\l__tblr_strut_ht_dim=\dimen354
+\g__tblr_cell_wd_dim=\dimen355
+\g__tblr_cell_ht_dim=\dimen356
+\g__tblr_cell_head_dim=\dimen357
+\g__tblr_cell_foot_dim=\dimen358
+\l__column_target_dim=\dimen359
+\l__tblr_caption_box=\box146
+\l__tblr_caption_left_box=\box147
+\l__tblr_row_head_box=\box148
+\l__tblr_row_foot_box=\box149
+\l__tblr_row_head_foot_dim=\dimen360
+\tablewidth=\dimen361
+\l__tblr_table_firsthead_box=\box150
+\l__tblr_table_middlehead_box=\box151
+\l__tblr_table_lasthead_box=\box152
+\l__tblr_table_firstfoot_box=\box153
+\l__tblr_table_middlefoot_box=\box154
+\l__tblr_table_lastfoot_box=\box155
+\l__tblr_remain_height_dim=\dimen362
+\l__tblr_long_from_int=\count393
+\l__tblr_long_to_int=\count394
+\l__tblr_curr_i_int=\count395
+\l__tblr_prev_i_int=\count396
+\l__tblr_table_page_int=\count397
+\l__tblr_table_head_box=\box156
+\l__tblr_table_foot_box=\box157
+\l__tblr_table_head_foot_dim=\dimen363
+\l__tblr_table_head_body_foot_dim=\dimen364
+\l__tblr_table_box=\box158
+\l__tblr_table_hlines_box=\box159
+\l__tblr_hline_box=\box160
+\l__tblr_row_box=\box161
+\l__tblr_col_o_wd_dim=\dimen365
+\l__tblr_col_b_wd_dim=\dimen366
+\l__tblr_hline_leftskip_dim=\dimen367
+\l__tblr_hline_rightskip_dim=\dimen368
+\l__tblr_row_ht_dim=\dimen369
+\l__tblr_row_dp_dim=\dimen370
+\l__tblr_row_abovesep_dim=\dimen371
+\l__tblr_row_belowsep_dim=\dimen372
+\l__tblr_row_vlines_box=\box162
+\l__tblr_vline_box=\box163
+\l__tblr_cell_box=\box164
+\l__row_upper_dim=\dimen373
+\l__row_lower_dim=\dimen374
+\l__row_vpace_dim=\dimen375
+\l__tblr_vline_aboveskip_dim=\dimen376
+\l__tblr_vline_belowskip_dim=\dimen377
+\l__tblr_cell_wd_dim=\dimen378
+\l__tblr_cell_ht_dim=\dimen379
+\l__tblr_diag_box=\box165
+) (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip147
+\multirow@cntb=\count398
+\multirow@dima=\skip148
+\bigstrutjot=\dimen380
+) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count399
+\float@exts=\toks68
+\float@box=\box166
+\@float@everytoks=\toks69
+\@floatcapt=\box167
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 213.
+
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count400
+\scratchdimen=\dimen381
+\scratchbox=\box168
+\nofMPsegments=\count401
+\nofMParguments=\count402
+\everyMPshowfont=\toks70
+\MPscratchCnt=\count403
+\MPscratchDim=\dimen382
+\MPnumerator=\count404
+\makeMPintoPDFobject=\count405
+\everyMPtoPDFconversion=\toks71
+) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring ON on input line 219.
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: heightrounded 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=681.7983pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-35.05495pt
+* \headheight=14.0pt
+* \headsep=34.14322pt
+* \topskip=11.0pt
+* \footskip=39.83368pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=11.69997pt plus 5.19942pt minus 2.60054pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count406
+\c@mv@tabular=\count407
+\c@mv@boldtabular=\count408
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(c:/texlive/2024/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 22.46396pt on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 32.34409pt on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 32.34409pt on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 15.59996pt on input line 222.
+LaTeX Font Info:    Calculating math sizes for size <15.59996> on input line 222.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 222.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 222.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 222.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 222.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <15.59996> on input line 222.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.91992> on input line 222.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.79997> on input line 222.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 222.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 222.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 222.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 18.72003pt on input line 222.
+
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 229.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 18.72003pt on input line 229.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:229: Package xcolor Error: Undefined color `subsectioncolor'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 ...tioncolor}{Classification of Algorithms}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 232.
+(c:/texlive/2024/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
+File: TS1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for TS1/Roboto-LF.
+)
+LaTeX Font Info:    Font shape `TS1/Roboto-LF/l/n' aliased to
+(Font)              `TS1/Roboto-LF/light/n' on input line 232.
+LaTeX Font Info:    Font shape `TS1/Roboto-LF/light/n' will be
+(Font)              scaled to size 13.0pt on input line 232.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 232.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 13.0pt on input line 232.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 232.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 255.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <13> on input line 255.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.09996> on input line 255.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.5> on input line 255.
+<images/tcp_cubic.png, id=14, 588.1975pt x 367.3725pt>
+File: images/tcp_cubic.png Graphic file (type png)
+<use images/tcp_cubic.png>
+Package pdftex.def Info: images/tcp_cubic.png  used on input line 266.
+(pdftex.def)             Requested size: 254.37029pt x 158.8752pt.
+
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 285.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 11.86258pt on input line 285.
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:285: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.285 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:285: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.285 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 285.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 11.86258pt on input line 285.
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 285.
+
+[2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:286: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.286 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:286: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.286 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 286.
+
+[3{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc} <./images/tcp_cubic.png>]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 321.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 9.09996pt on input line 321.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 321.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 6.5pt on input line 321.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:384: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.384 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:384: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.384 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 384.
+
+[4]
+Overfull \vbox (23.93321pt too high) has occurred while \output is active []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:384: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.384 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:384: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.384 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 384.
+
+[5]
+Overfull \hbox (31.8304pt too wide) in paragraph at lines 387--387
+|[]\T1/Roboto-LF/bold/n/18.72003 TCP Ve-gas Ap-pli-ca-tion Sce-nar-ios and Lim-i-ta-tions [7 points]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/it' aliased to
+(Font)              `T1/Roboto-LF/light/it' on input line 398.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/it' will be
+(Font)              scaled to size 13.0pt on input line 398.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:500: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.500 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:500: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.500 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 500.
+
+[6]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:501: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.501 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:501: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.501 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 501.
+
+[7]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:504: Package xcolor Error: Undefined color `boxbg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.504 ...frame=boxborder, title=TCP Veno Overview]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:504: Package xcolor Error: Undefined color `boxborder'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.504 ...frame=boxborder, title=TCP Veno Overview]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:532: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.532 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:532: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.532 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 532.
+
+[8]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:535: Package xcolor Error: Undefined color `boxbg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535 ...me=boxborder, title=TCP NewReno Overview]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:535: Package xcolor Error: Undefined color `boxborder'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535 ...me=boxborder, title=TCP NewReno Overview]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:559: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.559 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:559: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.559 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 559.
+
+[9]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:570: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.570 \begin{table}[h]
+                      
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:570: Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.570 \begin{table}[h]
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:570: Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.570 \begin{table}[h]
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:647: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.647 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:647: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.647 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 647.
+
+[10]
+Overfull \vbox (77.14667pt too high) has occurred while \output is active []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:647: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.647 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:647: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.647 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 647.
+
+[11]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:678: Package xcolor Error: Undefined color `boxbg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.678 ...bg, colframe=boxborder, title=Question-1]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:678: Package xcolor Error: Undefined color `boxborder'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.678 ...bg, colframe=boxborder, title=Question-1]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<images/new_reno_cwnd.jpg, id=125, 642.4pt x 481.8pt>
+File: images/new_reno_cwnd.jpg Graphic file (type jpg)
+<use images/new_reno_cwnd.jpg>
+Package pdftex.def Info: images/new_reno_cwnd.jpg  used on input line 687.
+(pdftex.def)             Requested size: 364.19667pt x 273.15115pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:688: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.688 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:688: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.688 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 688.
+
+[12]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:714: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.714             \item T
+                         he algorithm balances throughput and congestion avo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:714: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.714             \item T
+                         he algorithm balances throughput and congestion avo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 714.
+
+[13 <./images/new_reno_cwnd.jpg>]
+<images/highspeed_cwnd.jpg, id=141, 642.4pt x 481.8pt>
+File: images/highspeed_cwnd.jpg Graphic file (type jpg)
+<use images/highspeed_cwnd.jpg>
+Package pdftex.def Info: images/highspeed_cwnd.jpg  used on input line 753.
+(pdftex.def)             Requested size: 364.19667pt x 273.15115pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:754: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.754 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:754: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.754 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 754.
+
+[14]
+Overfull \hbox (15.72945pt too wide) in paragraph at lines 764--765
+[]\T1/Roboto-LF/bold/n/13 Stability\T1/Roboto-LF/light/n/13 : The con-ges-tion win-dow sta-bi-lizes af-ter reach-ing the max-i-mum thresh-
+ []
+
+
+Overfull \hbox (1.36708pt too wide) in paragraph at lines 766--767
+[]\T1/Roboto-LF/bold/n/13 Ideal Ap-pli-ca-tions\T1/Roboto-LF/light/n/13 : The al-go-rithm is well-suited for high-speed net-works, data
+ []
+
+
+Overfull \hbox (0.40538pt too wide) in paragraph at lines 771--773
+[]\T1/Roboto-LF/light/n/13 Different phases of HSTCP's con-ges-tion con-trol mech-a-nism can be iden-ti-fied from
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:782: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.782             \item H
+                         STCP balances throughput and stability in high-spee...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:782: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.782             \item H
+                         STCP balances throughput and stability in high-spee...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 782.
+
+[15 <./images/highspeed_cwnd.jpg>]
+Overfull \hbox (125.86116pt too wide) in paragraph at lines 804--816
+ [] 
+ []
+
+<images/vegas_cwnd.jpg, id=157, 642.4pt x 481.8pt>
+File: images/vegas_cwnd.jpg Graphic file (type jpg)
+<use images/vegas_cwnd.jpg>
+Package pdftex.def Info: images/vegas_cwnd.jpg  used on input line 821.
+(pdftex.def)             Requested size: 364.19667pt x 273.15115pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:822: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.822 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:822: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.822 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 822.
+
+[16]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:852: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.852             \item T
+                         CP Vegas uses delay signals to adjust the window si...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:852: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.852             \item T
+                         CP Vegas uses delay signals to adjust the window si...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 852.
+
+[17 <./images/vegas_cwnd.jpg>]
+Overfull \hbox (0.53346pt too wide) in paragraph at lines 853--854
+[]\T1/Roboto-LF/light/n/13 The al-go-rithm aims to main-tain sta-bil-ity and fair-ness by mon-i-tor-ing RTTs. 
+ []
+
+
+Overfull \hbox (4.12143pt too wide) in paragraph at lines 859--860
+[]\T1/Roboto-LF/light/n/13 The al-go-rithm's re-sponse to de-lay vari-a-tions is con-sis-tent and pre-dictable. 
+ []
+
+<images/veno_cwnd.jpg, id=173, 642.4pt x 481.8pt>
+File: images/veno_cwnd.jpg Graphic file (type jpg)
+<use images/veno_cwnd.jpg>
+Package pdftex.def Info: images/veno_cwnd.jpg  used on input line 886.
+(pdftex.def)             Requested size: 364.19667pt x 273.15115pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:887: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.887 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:887: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.887 \end{center}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 887.
+
+[18]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:910: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.910 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:910: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.910 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 910.
+
+[19 <./images/veno_cwnd.jpg>]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:946: Package xcolor Error: Undefined color `boxbg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.946 ...bg, colframe=boxborder, title=Question-2]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:946: Package xcolor Error: Undefined color `boxborder'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.946 ...bg, colframe=boxborder, title=Question-2]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:954: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.954 \begin{center}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:954: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.954 \begin{center}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 954.
+
+[20]
+<images/throughput_calculation1.jpg, id=207, 1013.7875pt x 763.85374pt>
+File: images/throughput_calculation1.jpg Graphic file (type jpg)
+<use images/throughput_calculation1.jpg>
+Package pdftex.def Info: images/throughput_calculation1.jpg  used on input line 955.
+(pdftex.def)             Requested size: 455.24411pt x 343.00836pt.
+
+Overfull \hbox (2.89085pt too wide) in paragraph at lines 957--961
+\T1/Roboto-LF/light/n/18.72003 Here i made a func-tion \T1/Roboto-LF/bold/n/18.72003 cal-cu-late_throughput \T1/Roboto-LF/light/n/18.72003 which takes
+ []
+
+
+Overfull \hbox (3.58351pt too wide) in paragraph at lines 957--961
+\T1/Roboto-LF/light/n/18.72003 The through-put is cal-cu-lated by fil-ter-ing the rel-e-vant pack-
+ []
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:962: Package xcolor Error: Undefined color `boxbg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 ..., colframe=boxborder, title=Command Used]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:962: Package xcolor Error: Undefined color `boxborder'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 ..., colframe=boxborder, title=Command Used]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (269.63062pt too wide) in paragraph at lines 964--964
+[]\T1/lmtt/m/n/18.72003 tshark -r $1 -Y "tcp.analysis.ack_rtt and tcp.analysis.ack_rtt < 0.1" -T 
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:968: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.968 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:968: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.968 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 968.
+
+[21 <./images/throughput_calculation1.jpg>]
+<images/throughput_calculation2.jpg, id=212, 1013.7875pt x 831.105pt>
+File: images/throughput_calculation2.jpg Graphic file (type jpg)
+<use images/throughput_calculation2.jpg>
+Package pdftex.def Info: images/throughput_calculation2.jpg  used on input line 970.
+(pdftex.def)             Requested size: 455.24411pt x 373.20753pt.
+<images/throughput_df.jpg, id=213, 379.4175pt x 262.9825pt>
+File: images/throughput_df.jpg Graphic file (type jpg)
+<use images/throughput_df.jpg>
+Package pdftex.def Info: images/throughput_df.jpg  used on input line 978.
+(pdftex.def)             Requested size: 409.71692pt x 283.98875pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/thorughput_graph.jpg, id=214, 1606.0pt x 957.5775pt>
+File: images/thorughput_graph.jpg Graphic file (type jpg)
+<use images/thorughput_graph.jpg>
+Package pdftex.def Info: images/thorughput_graph.jpg  used on input line 984.
+(pdftex.def)             Requested size: 409.71692pt x 244.28862pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:989: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.989 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:989: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.989 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 989.
+
+[22 <./images/throughput_calculation2.jpg>]
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:991: Package xcolor Error: Undefined color `boxbg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.991 ...bg, colframe=boxborder, title=Question-2]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:991: Package xcolor Error: Undefined color `boxborder'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.991 ...bg, colframe=boxborder, title=Question-2]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Calculating math sizes for size <18.72003> on input line 996.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <18.72003> on input line 996.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <13.10396> on input line 996.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.36002> on input line 996.
+
+Overfull \hbox (15.86603pt too wide) in paragraph at lines 995--1000
+\T1/Roboto-LF/light/n/18.72003 To de-tect such cases , I cre-ated a re-duce_cwnd_analysis.py
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1001: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1001 \begin{center}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1001: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1001 \begin{center}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 1001.
+
+[23
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1001 \begin{center}
+                      <./images/throughput_df.jpg>]
+<images/reduce_cwnd1.jpg, id=224, 1156.32pt x 617.30624pt>
+File: images/reduce_cwnd1.jpg Graphic file (type jpg)
+<use images/reduce_cwnd1.jpg>
+Package pdftex.def Info: images/reduce_cwnd1.jpg  used on input line 1002.
+(pdftex.def)             Requested size: 455.24411pt x 243.02794pt.
+<images/reduce_cwnd2.jpg, id=225, 1167.36125pt x 729.72626pt>
+File: images/reduce_cwnd2.jpg Graphic file (type jpg)
+<use images/reduce_cwnd2.jpg>
+Package pdftex.def Info: images/reduce_cwnd2.jpg  used on input line 1008.
+(pdftex.def)             Requested size: 455.24411pt x 284.56982pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1009: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1009 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1009: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1009 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 1009.
+
+[24
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1009 \end{center}
+                    <./images/thorughput_graph.jpg> <./images/reduce_cwnd1.jpg>]
+<images/reduce_cwnd3.jpg, id=231, 1167.36125pt x 729.72626pt>
+File: images/reduce_cwnd3.jpg Graphic file (type jpg)
+<use images/reduce_cwnd3.jpg>
+Package pdftex.def Info: images/reduce_cwnd3.jpg  used on input line 1014.
+(pdftex.def)             Requested size: 455.24411pt x 284.56982pt.
+<images/reduce_cwnd4.jpg, id=232, 1156.32pt x 632.3625pt>
+File: images/reduce_cwnd4.jpg Graphic file (type jpg)
+<use images/reduce_cwnd4.jpg>
+Package pdftex.def Info: images/reduce_cwnd4.jpg  used on input line 1020.
+(pdftex.def)             Requested size: 455.24411pt x 248.95546pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1021: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1021 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1021: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1021 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 1021.
+
+[25 <./images/reduce_cwnd2.jpg> <./images/reduce_cwnd3.jpg>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1026.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1027--1027
+[][]
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1062: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1062 \end{mdframed}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1062: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1062 \end{mdframed}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 1062.
+
+[26 <./images/reduce_cwnd4.jpg>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1064.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1065--1065
+[][]
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1085.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 1086--1086
+[][]
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1099: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1099 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1099: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1099 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 1099.
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1103--1104
+
+ []
+
+<images/latency-sh.jpg, id=247, 1606.0pt x 587.19376pt>
+File: images/latency-sh.jpg Graphic file (type jpg)
+<use images/latency-sh.jpg>
+Package pdftex.def Info: images/latency-sh.jpg  used on input line 1105.
+(pdftex.def)             Requested size: 455.24411pt x 166.447pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1107--1109
+
+ []
+
+<images/flow-latency.jpg, id=248, 830.10126pt x 443.6575pt>
+File: images/flow-latency.jpg Graphic file (type jpg)
+<use images/flow-latency.jpg>
+Package pdftex.def Info: images/flow-latency.jpg  used on input line 1110.
+(pdftex.def)             Requested size: 455.24411pt x 243.30832pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1111: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1111 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1111: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1111 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 1111.
+
+[28 <./images/latency-sh.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1114
+
+ []
+
+<images/simulation.jpg, id=253, 1069.9975pt x 391.4625pt>
+File: images/simulation.jpg Graphic file (type jpg)
+<use images/simulation.jpg>
+Package pdftex.def Info: images/simulation.jpg  used on input line 1115.
+(pdftex.def)             Requested size: 455.24411pt x 166.55153pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1119
+
+ []
+
+<images/plot-4.jpg, id=254, 914.41624pt x 282.05376pt>
+File: images/plot-4.jpg Graphic file (type jpg)
+<use images/plot-4.jpg>
+Package pdftex.def Info: images/plot-4.jpg  used on input line 1120.
+(pdftex.def)             Requested size: 455.24411pt x 140.4197pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1121: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1121 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1121: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1121 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 1121.
+
+[29 <./images/flow-latency.jpg> <./images/simulation.jpg>]
+<images/result-4.jpg, id=259, 1009.7725pt x 459.7175pt>
+File: images/result-4.jpg Graphic file (type jpg)
+<use images/result-4.jpg>
+Package pdftex.def Info: images/result-4.jpg  used on input line 1124.
+(pdftex.def)             Requested size: 455.24411pt x 207.25676pt.
+<images/throughput-4.jpg, id=260, 1204.5pt x 1003.75pt>
+File: images/throughput-4.jpg Graphic file (type jpg)
+<use images/throughput-4.jpg>
+Package pdftex.def Info: images/throughput-4.jpg  used on input line 1130.
+(pdftex.def)             Requested size: 425.99142pt x 354.99359pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1139
+
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1140: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1140 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1140: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1140 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 1140.
+
+[30 <./images/plot-4.jpg> <./images/result-4.jpg>]
+Overfull \vbox (29.75095pt too high) has occurred while \output is active []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1140: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1140 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1140: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1140 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 1140.
+
+[31 <./images/throughput-4.jpg>]
+<images/bandwidth-latenct.jpg, id=270, 1003.75pt x 803.0pt>
+File: images/bandwidth-latenct.jpg Graphic file (type jpg)
+<use images/bandwidth-latenct.jpg>
+Package pdftex.def Info: images/bandwidth-latenct.jpg  used on input line 1144.
+(pdftex.def)             Requested size: 425.99142pt x 340.79875pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1159
+
+ []
+
+<images/mtu-sim.jpg, id=271, 1147.28625pt x 868.24374pt>
+File: images/mtu-sim.jpg Graphic file (type jpg)
+<use images/mtu-sim.jpg>
+Package pdftex.def Info: images/mtu-sim.jpg  used on input line 1163.
+(pdftex.def)             Requested size: 425.99142pt x 322.37126pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1165: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1165     \item \textbf
+                        {Image 1: Network Throughput, Latency, and Packet Lo...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 1165
+[][]
+ []
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1168: Illegal parameter number in definition of \reserved@b.
+<to be read again> 
+                   }
+l.1168 ...ttt{# MTU Throughput Latency PacketLoss}
+                                                  .
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1168: You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.1168 ...ttt{# MTU Throughput Latency PacketLoss}
+                                                  .
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 1168--1169
+[]\T1/Roboto-LF/light/n/13 The data is or-ga-nized into sec-tions, each with a header in-di-cat-
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1172: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1172 \end{tcolorbox}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1172: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1172 \end{tcolorbox}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 1172.
+
+[32 <./images/bandwidth-latenct.jpg>]
+<images/mtu-res.jpg, id=276, 590.205pt x 579.16376pt>
+File: images/mtu-res.jpg Graphic file (type jpg)
+<use images/mtu-res.jpg>
+Package pdftex.def Info: images/mtu-res.jpg  used on input line 1176.
+(pdftex.def)             Requested size: 425.99142pt x 418.03156pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1178: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1178 \item \textbf
+                    {Image 2: Script for Analyzing Network Data}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 1178
+[][]
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1181--1182
+\T1/lmtt/m/n/13 tests for each combination\T1/Roboto-LF/light/n/13 , \T1/lmtt/m/n/13 Extract all metrics\T1/Roboto-LF/light/n/13 , and \T1/lmtt/m/n/13 Get the
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1187: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1187 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1187: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1187 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 1187.
+
+[33 <./images/mtu-sim.jpg>]
+Overfull \vbox (30.39076pt too high) has occurred while \output is active []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1187: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1187 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1187: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1187 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 1187.
+
+[34 <./images/mtu-res.jpg>]
+<images/newreno_rtt.jpg, id=286, 642.4pt x 481.8pt>
+File: images/newreno_rtt.jpg Graphic file (type jpg)
+<use images/newreno_rtt.jpg>
+Package pdftex.def Info: images/newreno_rtt.jpg  used on input line 1196.
+(pdftex.def)             Requested size: 218.51521pt x 163.88335pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1197: Undefined control sequence.
+l.1197     \subcaption
+                      {NewReno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/hs-rtt.jpg, id=287, 642.4pt x 481.8pt>
+File: images/hs-rtt.jpg Graphic file (type jpg)
+<use images/hs-rtt.jpg>
+Package pdftex.def Info: images/hs-rtt.jpg  used on input line 1201.
+(pdftex.def)             Requested size: 218.51521pt x 163.88335pt.
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1202: Undefined control sequence.
+l.1202     \subcaption
+                      {HighSpeed}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/vegas_rtt.jpg, id=288, 642.4pt x 481.8pt>
+File: images/vegas_rtt.jpg Graphic file (type jpg)
+<use images/vegas_rtt.jpg>
+Package pdftex.def Info: images/vegas_rtt.jpg  used on input line 1208.
+(pdftex.def)             Requested size: 218.51521pt x 163.88335pt.
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1209: Undefined control sequence.
+l.1209         \subcaption
+                          {Vegas}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/veno_rtt.jpg, id=289, 642.4pt x 481.8pt>
+File: images/veno_rtt.jpg Graphic file (type jpg)
+<use images/veno_rtt.jpg>
+Package pdftex.def Info: images/veno_rtt.jpg  used on input line 1213.
+(pdftex.def)             Requested size: 218.51521pt x 163.88335pt.
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1214: Undefined control sequence.
+l.1214         \subcaption
+                          {Veno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1227: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1227 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1227: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1227 
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 1227.
+
+[35
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1227 
+        <./images/newreno_rtt.jpg> <./images/hs-rtt.jpg> <./images/vegas_rtt.jpg> <./images/veno_rtt.jpg>]
+Overfull \hbox (5.63286pt too wide) in paragraph at lines 1229--1231
+[]\T1/Roboto-LF/bold/n/13 Inference: \T1/Roboto-LF/light/n/13 Ve-gas ex-hibits a sta-ble RTT through-out the ob-ser-va-tion, with few spikes,
+ []
+
+
+Overfull \hbox (33.09488pt too wide) in paragraph at lines 1239--1239
+[]\T1/lmtt/m/n/13 a. You need to create a new CCA named Tcp<first_name> and you need to try 
+ []
+
+
+Overfull \hbox (46.47403pt too wide) in paragraph at lines 1242--1242
+[]\T1/lmtt/m/n/13 b. You need to focus only on the SlowStart phase and in order to improve it[] 
+ []
+
+
+Overfull \hbox (53.1636pt too wide) in paragraph at lines 1243--1243
+[]\T1/lmtt/m/n/13 you need to replace Reno's slow start with TCP Hystart (whose implementation[] 
+ []
+
+
+Overfull \hbox (33.09488pt too wide) in paragraph at lines 1244--1244
+[]\T1/lmtt/m/n/13 can be found in src/internet/model/tcp-cubic.cc which is ns-3's Tcp Cubic[] 
+ []
+
+
+Overfull \hbox (53.1636pt too wide) in paragraph at lines 1247--1247
+[]\T1/lmtt/m/n/13 c. You aim and try to make the slow start phase more intelligent with better[] 
+ []
+
+
+Overfull \hbox (39.78445pt too wide) in paragraph at lines 1248--1248
+[]\T1/lmtt/m/n/13 exit points by doing this (more about Hystart at Reference a) but once you[] 
+ []
+
+
+Overfull \hbox (59.85318pt too wide) in paragraph at lines 1249--1249
+[]\T1/lmtt/m/n/13 have done this you need to evaluate your algorithm's performance, so consider[] 
+ []
+
+
+Overfull \hbox (33.09488pt too wide) in paragraph at lines 1250--1250
+[]\T1/lmtt/m/n/13 the dumbbell topology in demo.cc, make all the flows TCP and evaluate the[] 
+ []
+
+
+Overfull \hbox (53.1636pt too wide) in paragraph at lines 1251--1251
+[]\T1/lmtt/m/n/13 standard metrics like throughput, congestion window, ssthresh, rtt variation[] 
+ []
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 1255.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 15.59996pt on input line 1255.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1259: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1259 \begin{center}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1259: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1259 \begin{center}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 1259.
+
+[36]
+<images/tcpayush.h.jpg, id=304, 1474.50874pt x 759.83875pt>
+File: images/tcpayush.h.jpg Graphic file (type jpg)
+<use images/tcpayush.h.jpg>
+Package pdftex.def Info: images/tcpayush.h.jpg  used on input line 1260.
+(pdftex.def)             Requested size: 455.24411pt x 234.58525pt.
+<images/tcpayush-functions.jpg, id=305, 1401.235pt x 514.92375pt>
+File: images/tcpayush-functions.jpg Graphic file (type jpg)
+<use images/tcpayush-functions.jpg>
+Package pdftex.def Info: images/tcpayush-functions.jpg  used on input line 1263.
+(pdftex.def)             Requested size: 455.24411pt x 167.29323pt.
+LaTeX Font Info:    Font shape `TS1/Roboto-LF/l/n' aliased to
+(Font)              `TS1/Roboto-LF/light/n' on input line 1269.
+LaTeX Font Info:    Font shape `TS1/Roboto-LF/light/n' will be
+(Font)              scaled to size 15.59996pt on input line 1269.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1271: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1271 \end{itemize}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1271: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1271 \end{itemize}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 1271.
+
+[37 <./images/tcpayush.h.jpg> <./images/tcpayush-functions.jpg>]
+Overfull \hbox (5.26299pt too wide) in paragraph at lines 1273--1274
+[]\T1/Roboto-LF/light/n/15.59996 To eval-u-ate per-for-mance, I tested \T1/lmtt/m/n/15.59996 TcpAyush \T1/Roboto-LF/light/n/15.59996 us-ing the []dumb-bell topol-
+ []
+
+<images/ayush-t.jpg, id=311, 1094.0875pt x 517.935pt>
+File: images/ayush-t.jpg Graphic file (type jpg)
+<use images/ayush-t.jpg>
+Package pdftex.def Info: images/ayush-t.jpg  used on input line 1278.
+(pdftex.def)             Requested size: 455.24411pt x 215.50803pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1279: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1279     \caption
+                   {Throughput file for tcpayush}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1279: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1279     \caption
+                   {Throughput file for tcpayush}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1279: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1279     \caption
+                   {Throughput file for tcpayush}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/newreno-t.jpg, id=312, 1094.0875pt x 455.7025pt>
+File: images/newreno-t.jpg Graphic file (type jpg)
+<use images/newreno-t.jpg>
+Package pdftex.def Info: images/newreno-t.jpg  used on input line 1283.
+(pdftex.def)             Requested size: 455.24411pt x 189.61365pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1284: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1284     \caption
+                   {Throughput file for TcpNewReno}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1284: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1284     \caption
+                   {Throughput file for TcpNewReno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1284: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1284     \caption
+                   {Throughput file for TcpNewReno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (18.37727pt too wide) in paragraph at lines 1288--1288
+[]\T1/lmtt/m/n/15.59996 d. Also, calculate the value of Jain's fairness index (more 
+ []
+
+
+Overfull \hbox (2.32231pt too wide) in paragraph at lines 1289--1289
+[]\T1/lmtt/m/n/15.59996 about this at Reference b) by varying the number of flows[] 
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1290: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1290 ... in the first run of your experiment all
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1290: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1290 ... in the first run of your experiment all
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 1290.
+
+[38 <./images/ayush-t.jpg> <./images/newreno-t.jpg>]
+Overfull \hbox (2.32231pt too wide) in paragraph at lines 1292--1292
+[]\T1/lmtt/m/n/15.59996 baseline readings for comparison and in the second run of[] 
+ []
+
+
+Overfull \hbox (26.40475pt too wide) in paragraph at lines 1293--1293
+[]\T1/lmtt/m/n/15.59996 experiment, half of the flows will be using TcpNewReno while[] 
+ []
+
+
+Overfull \hbox (8.8855pt too wide) in paragraph at lines 1301--1302
+\T1/Roboto-LF/light/n/15.59996 au-to-mate the pro-cess of gen-er-at-ing files for both []mixed[] and []NewReno[]
+ []
+
+<images/create-sh.jpg, id=317, 1062.97125pt x 435.6275pt>
+File: images/create-sh.jpg Graphic file (type jpg)
+<use images/create-sh.jpg>
+Package pdftex.def Info: images/create-sh.jpg  used on input line 1306.
+(pdftex.def)             Requested size: 455.24411pt x 186.57169pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1307: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1307     \caption
+                   {Code to create file and save it in scratch directory}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1307: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1307     \caption
+                   {Code to create file and save it in scratch directory}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1307: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1307     \caption
+                   {Code to create file and save it in scratch directory}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/create-sh2.jpg, id=318, 1110.1475pt x 548.0475pt>
+File: images/create-sh2.jpg Graphic file (type jpg)
+<use images/create-sh2.jpg>
+Package pdftex.def Info: images/create-sh2.jpg  used on input line 1311.
+(pdftex.def)             Requested size: 455.24411pt x 224.74274pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1312: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1312     \caption
+                   {Taking input for flows and creating new file with this f...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1312: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1312     \caption
+                   {Taking input for flows and creating new file with this f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1312: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1312     \caption
+                   {Taking input for flows and creating new file with this f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1313: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1313 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1313: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1313 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 1313.
+
+[39 <./images/create-sh.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1317
+
+ []
+
+<images/jain-sim.jpg, id=323, 849.1725pt x 237.88875pt>
+File: images/jain-sim.jpg Graphic file (type jpg)
+<use images/jain-sim.jpg>
+Package pdftex.def Info: images/jain-sim.jpg  used on input line 1319.
+(pdftex.def)             Requested size: 455.24411pt x 127.53238pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1320: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1320     \caption
+                   {Simulation code to calculate jain\_index function}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1320: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1320     \caption
+                   {Simulation code to calculate jain\_index function}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1320: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1320     \caption
+                   {Simulation code to calculate jain\_index function}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/jain-sim2.jpg, id=324, 1201.48875pt x 404.51125pt>
+File: images/jain-sim2.jpg Graphic file (type jpg)
+<use images/jain-sim2.jpg>
+Package pdftex.def Info: images/jain-sim2.jpg  used on input line 1324.
+(pdftex.def)             Requested size: 455.24411pt x 153.27145pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1325: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1325     \caption
+                   {Main code to run calculate jain\_index function and save...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1325: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1325     \caption
+                   {Main code to run calculate jain\_index function and save...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1325: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1325     \caption
+                   {Main code to run calculate jain\_index function and save...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1329: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1329 \begin{center}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1329: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1329 \begin{center}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 1329.
+
+[40 <./images/create-sh2.jpg> <./images/jain-sim.jpg> <./images/jain-sim2.jpg>]
+<images/bash-jain.jpg, id=329, 851.18pt x 229.85875pt>
+File: images/bash-jain.jpg Graphic file (type jpg)
+<use images/bash-jain.jpg>
+Package pdftex.def Info: images/bash-jain.jpg  used on input line 1330.
+(pdftex.def)             Requested size: 455.24411pt x 122.93988pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1331: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1331     \caption
+                   {Jain's Fairness Index for Different Number of Flows}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1331: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1331     \caption
+                   {Jain's Fairness Index for Different Number of Flows}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1331: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1331     \caption
+                   {Jain's Fairness Index for Different Number of Flows}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/jain-res.jpg, id=330, 803.0pt x 602.25pt>
+File: images/jain-res.jpg Graphic file (type jpg)
+<use images/jain-res.jpg>
+Package pdftex.def Info: images/jain-res.jpg  used on input line 1334.
+(pdftex.def)             Requested size: 455.24411pt x 341.43895pt.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1335: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1335     \caption
+                   {Plot of jain index value for tcpayush and tcpnewreno}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1335: Undefined control sequence.
+\caption ... \endcsname \fi \fi \@dblarg {\@tempf 
+                                                  \@captype }
+l.1335     \caption
+                   {Plot of jain index value for tcpayush and tcpnewreno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1335: Undefined control sequence.
+\caption ...e \fi \fi \@dblarg {\@tempf \@captype 
+                                                  }
+l.1335     \caption
+                   {Plot of jain index value for tcpayush and tcpnewreno}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (267.22919pt too wide) in paragraph at lines 1339--1339
+[]\T1/lmtt/m/n/15.59996 e. Plot the necessary graphs for all the metrics (throughput, congestion window, ssthresh, 
+ []
+
+<images/rtt-comp.jpg, id=331, 1204.5pt x 602.25pt>
+File: images/rtt-comp.jpg Graphic file (type jpg)
+<use images/rtt-comp.jpg>
+Package pdftex.def Info: images/rtt-comp.jpg  used on input line 1345.
+(pdftex.def)             Requested size: 455.24411pt x 227.62596pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1346: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1346 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1346: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1346 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 1346.
+
+[41 <./images/bash-jain.jpg> <./images/jain-res.jpg>]
+<images/cwnd-comp.jpg, id=336, 1606.0pt x 876.27374pt>
+File: images/cwnd-comp.jpg Graphic file (type jpg)
+<use images/cwnd-comp.jpg>
+Package pdftex.def Info: images/cwnd-comp.jpg  used on input line 1349.
+(pdftex.def)             Requested size: 455.24411pt x 248.39015pt.
+<images/t-comp.jpg, id=337, 803.0pt x 602.25pt>
+File: images/t-comp.jpg Graphic file (type jpg)
+<use images/t-comp.jpg>
+Package pdftex.def Info: images/t-comp.jpg  used on input line 1353.
+(pdftex.def)             Requested size: 455.24411pt x 341.43895pt.
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1354: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1354 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1354: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1354 \end{center}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 1354.
+
+[42 <./images/rtt-comp.jpg> <./images/cwnd-comp.jpg>]
+<images/ss-comp.jpg, id=342, 1606.0pt x 876.27374pt>
+File: images/ss-comp.jpg Graphic file (type jpg)
+<use images/ss-comp.jpg>
+Package pdftex.def Info: images/ss-comp.jpg  used on input line 1357.
+(pdftex.def)             Requested size: 455.24411pt x 248.39015pt.
+
+Overfull \hbox (211.03682pt too wide) in paragraph at lines 1361--1361
+[]\T1/lmtt/m/n/15.59996 f. Finally, try to justify and explain the results of the comparison thus obtained. 
+ []
+
+
+Overfull \hbox (6.80772pt too wide) in paragraph at lines 1367--1368
+\T1/Roboto-LF/light/n/15.59996 ues fluc-tu-at-ing be-tween ap-prox-i-mately []0.005[] and []0.035 sec-onds[]. 
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1368: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1368     \item T
+                  he \textcolor{purple}{RTT} fluctuations are highly correla...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1368: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1368     \item T
+                  he \textcolor{purple}{RTT} fluctuations are highly correla...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 1368.
+
+[43 <./images/t-comp.jpg> <./images/ss-comp.jpg>]
+Overfull \hbox (3.5618pt too wide) in paragraph at lines 1375--1376
+[]\T1/lmtt/m/n/15.59996 Ayush \T1/Roboto-LF/light/n/15.59996 achieves slightly higher through-put ([]0.85 Mbps[]) com-pared
+ []
+
+
+Overfull \hbox (9.25706pt too wide) in paragraph at lines 1384--1385
+[]\T1/Roboto-LF/light/n/15.59996 Both al-go-rithms ex-hibit sim-i-lar pat-terns of []thresh-old ad-just-ments[]. 
+ []
+
+
+Overfull \hbox (12.02005pt too wide) in paragraph at lines 1385--1386
+[]\T1/lmtt/m/n/15.59996 Ayush \T1/Roboto-LF/light/n/15.59996 main-tains a slightly higher av-er-age thresh-old, al-low-ing more
+ []
+
+
+Overfull \hbox (12.07935pt too wide) in paragraph at lines 1402--1403
+[]\T1/lmtt/m/n/15.59996 Ayush\T1/Roboto-LF/light/n/15.59996 's im-proved through-put can be at-tributed to its slightly higher
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1403: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1403     \item T
+                  he algorithm appears to be more aggressive in \textcolor{p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1403: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1403     \item T
+                  he algorithm appears to be more aggressive in \textcolor{p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 1403.
+
+[44]
+Overfull \hbox (12.70332pt too wide) in paragraph at lines 1420--1421
+[]\T1/Roboto-LF/light/n/15.59996 The mi-nor dif-fer-ences in mean val-ues sug-gest that \T1/lmtt/m/n/15.59996 Ayush \T1/Roboto-LF/light/n/15.59996 achieves
+ []
+
+
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1426: Undefined control sequence.
+\f@nch@olh ...olor {primaryColor}\assignmentClass 
+                                                  \ifdef {\assignmentClassIn...
+l.1426 \end{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Ayush/OneDrive/Documents/ml/nlp-assign2/cn-assign/latex/main.tex:1426: Undefined control sequence.
+\f@nch@olh ...ush Kumar Mishra}\ \assignmentTitle 
+                                                  \strut 
+l.1426 \end{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 25.56444pt, for example:
+(fancyhdr)                \setlength{\headheight}{25.56444pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-11.56444pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 1426.
+
+[45] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  C7D4341EC48450934D1D0B6D47C3CAEE;6043.
+
+Package lastpage Warning: Rerun to get the references right on input line 1426.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 43903 strings out of 473579
+ 1016393 string characters out of 5732263
+ 1556285 words of memory out of 5000000
+ 65914 multiletter control sequences out of 15000+600000
+ 672021 words of font info for 118 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,13n,107p,782b,890s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb><c:/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb><c:/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (45 pages, 6176880 bytes).
+PDF statistics:
+ 452 PDF objects out of 1000 (max. 8388607)
+ 336 compressed objects within 4 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+
